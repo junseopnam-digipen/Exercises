@@ -1,5 +1,3 @@
-# Exercises
-Exercises
 <!DOCTYPE html>
 <html>
     <head>
